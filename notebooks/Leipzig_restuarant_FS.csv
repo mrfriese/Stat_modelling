@@ -1,0 +1,1034 @@
+,name,rating,distance
+0,Bagel Brothers,8.0,98
+1,Imperii,8.4,170
+2,Goldene Kugel,6.2,111
+3,Planerts,7.4,210
+4,Yasumi,7.3,216
+5,Andria Ristorante,7.1,211
+6,Niiko Sushi x Vegan,-1,132
+7,KFC,6.3,179
+8,Subway,6.4,205
+9,Frittenwerk,-1,167
+10,"Pizza Hut Leipzig, HBF",5.7,175
+11,Asiahung,6.3,215
+12,Romanushof,6.8,256
+13,Burger King,5.3,170
+14,ROCKET’S Burger,-1,183
+15,Peter Pane,7.1,287
+16,Sole Mio,-1,185
+17,Masala - Indian Food,6.0,209
+18,Pho Viet,7.1,285
+19,McDonald's,6.8,271
+20,Indian Crown,7.1,290
+21,KFC,5.2,185
+22,Haiky,6.7,266
+23,Burgermeister der Grill,5.8,214
+24,Frittz,-1,203
+25,frischBack,-1,210
+26,McDonald's,5.5,209
+27,Indian Palace,6.3,262
+28,Rusty‘S,-1,222
+29,Ciao Bella,-1,225
+30,Toskana Leipzig,-1,228
+31,Endless,-1,229
+32,Vietnam Bistro,-1,230
+33,Mumbai,5.8,247
+34,Sushi Circle,6.9,324
+35,Campus Suite,-1,235
+36,Indian Curry House,-1,240
+37,Tischlein Deck Dich,-1,248
+38,Gourmet-Restaurant FALCO,7.1,365
+39,ALEX Leipzig,7.5,391
+40,Long Food,-1,258
+41,Micello's,-1,258
+42,Valentino,7.5,410
+43,Sardinia,7.1,386
+44,Side Döner,-1,274
+45,India Gate,5.7,284
+46,Curry & Co,7.3,410
+47,Dean & David,7.1,405
+48,Falafel Ali,-1,289
+49,Stein Café,6.7,389
+50,Goldene Höhe,-1,197
+51,Family-Restaurant Neumann (Familiengaststätte Neumann),-1,491
+52,Frittenwerk,-1,65
+53,ROCKET’S Burger,-1,71
+54,Asiahung,6.3,107
+55,Bagel Brothers,8.0,215
+56,KFC,5.2,71
+57,Frittz,-1,89
+58,Masala - Indian Food,6.0,110
+59,McDonald's,5.5,91
+60,frischBack,-1,100
+61,"Pizza Hut Leipzig, HBF",5.7,107
+62,Imperii,8.4,262
+63,Burger King,5.3,102
+64,Ciao Bella,-1,123
+65,Goldene Kugel,6.2,193
+66,Campus Suite,-1,161
+67,Planerts,7.4,306
+68,Yasumi,7.3,307
+69,Falafel Ali,-1,200
+70,Andria Ristorante,7.1,324
+71,Gourmet-Restaurant FALCO,7.1,330
+72,Subway,6.4,298
+73,Niiko Sushi x Vegan,-1,248
+74,McDonald's,6.8,358
+75,Romanushof,6.8,360
+76,Peter Pane,7.1,391
+77,Haiky,6.7,352
+78,Sole Mio,-1,278
+79,Pho Viet,7.1,392
+80,Burgermeister der Grill,5.8,304
+81,Indian Crown,7.1,408
+82,Rusty‘S,-1,309
+83,VICTOR’S Restaurant,-1,310
+84,Indian Palace,6.3,374
+85,Vietnam Bistro,-1,319
+86,Restaurant Brühl,-1,326
+87,Endless,-1,327
+88,Tischlein Deck Dich,-1,328
+89,Sushi Circle,6.9,436
+90,Mumbai,5.8,355
+91,Toskana Leipzig,-1,342
+92,Curry & Co,7.3,492
+93,Long Food,-1,345
+94,Dean & David,7.1,483
+95,Indian Curry House,-1,352
+96,Micello's,-1,355
+97,Side Döner,-1,363
+98,India Gate,5.7,395
+99,Takumi Leipzig,-1,401
+100,Stein Café,6.7,505
+101,Sushi to go,-1,424
+102,ROCKET’S Burger,-1,56
+103,KFC,5.2,59
+104,McDonald's,5.5,80
+105,Asiahung,6.3,145
+106,Frittz,-1,120
+107,frischBack,-1,136
+108,Masala - Indian Food,6.0,166
+109,Frittenwerk,-1,144
+110,Gourmet-Restaurant FALCO,7.1,245
+111,Bagel Brothers,8.0,318
+112,Ciao Bella,-1,168
+113,"Pizza Hut Leipzig, HBF",5.7,201
+114,Imperii,8.4,381
+115,Burger King,5.3,198
+116,Goldene Kugel,6.2,252
+117,Campus Suite,-1,234
+118,Restaurant Brühl,-1,244
+119,Falafel Ali,-1,245
+120,Planerts,7.4,424
+121,Andria Ristorante,7.1,432
+122,Romanushof,6.8,421
+123,Sole Mio,-1,331
+124,Burgermeister der Grill,5.8,352
+125,Pho Viet,7.1,456
+126,Niiko Sushi x Vegan,-1,352
+127,Rusty‘S,-1,353
+128,Tischlein Deck Dich,-1,362
+129,Indian Crown,7.1,501
+130,Endless,-1,384
+131,Long Food,-1,386
+132,VICTOR’S Restaurant,-1,390
+133,Side Döner,-1,403
+134,Micello's,-1,407
+135,Indian Palace,6.3,484
+136,Vietnam Bistro,-1,439
+137,Toskana Leipzig,-1,448
+138,Mumbai,5.8,468
+139,Sushi to go,-1,459
+140,Indian Curry House,-1,462
+141,Takumi Leipzig,-1,474
+142,Restaurant Villers,-1,493
+143,Steyersteins,-1,55
+144,Bowlinggipfel,-1,104
+145,Griechisches Restaurant Alexandros,6.9,316
+146,Pho Co Restaurant - vietnamesische feine cuisine,-1,246
+147,Soltani Bistro & Pizzeria,-1,366
+148,Domino's Pizza Leipzig Eutritzsch Zentrum,-1,385
+149,Localino - Italienisches Restaurant,-1,442
+150,Mediengarten in der Mediacity am MDR,-1,376
+151,"Pizza Hut Leipzig, HBF",5.7,59
+152,Burger King,5.3,61
+153,Imperii,8.4,219
+154,Campus Suite,-1,76
+155,Masala - Indian Food,6.0,113
+156,Asiahung,6.3,137
+157,Bagel Brothers,8.0,248
+158,Frittenwerk,-1,115
+159,Ciao Bella,-1,124
+160,Falafel Ali,-1,135
+161,frischBack,-1,142
+162,Planerts,7.4,260
+163,Frittz,-1,152
+164,VICTOR’S Restaurant,-1,166
+165,McDonald's,5.5,189
+166,ROCKET’S Burger,-1,202
+167,KFC,5.2,199
+168,Andria Ristorante,7.1,319
+169,Goldene Kugel,6.2,298
+170,Vietnam Bistro,-1,257
+171,Takumi Leipzig,-1,258
+172,Niiko Sushi x Vegan,-1,271
+173,Indian Palace,6.3,358
+174,Indian Crown,7.1,429
+175,Mumbai,5.8,327
+176,Sardinia,7.1,458
+177,Indian Curry House,-1,337
+178,Peter Pane,7.1,467
+179,Pho Viet,7.1,462
+180,Romanushof,6.8,438
+181,Toskana Leipzig,-1,341
+182,Gourmet-Restaurant FALCO,7.1,485
+183,India Gate,5.7,372
+184,Peperoni,-1,370
+185,H & V Asia Imbiss Döner,-1,374
+186,Sole Mio,-1,374
+187,Burgermeister der Grill,5.8,403
+188,Rusty‘S,-1,411
+189,Endless,-1,414
+190,Tischlein Deck Dich,-1,437
+191,Micello's,-1,444
+192,Long Food,-1,447
+193,Side Döner,-1,463
+194,Dubrovnik,-1,114
+195,Subway,6.4,433
+196,Trago,-1,18
+197,Tamers Bistro,7.6,32
+198,Dankbar Kaffee Leipzig,8.0,122
+199,Pizzeria Napoli,-1,29
+200,Elia Griechisches,-1,39
+201,Maharadscha,-1,58
+202,Subway,5.9,82
+203,Bacco 36,7.3,274
+204,Fam Tran Phat,6.3,214
+205,L`arena Pizzeria,6.1,244
+206,Von Meck,-1,226
+207,lauritz Café & Handwerk,-1,253
+208,Taverna Hellas,-1,261
+209,Aspendos Grill,6.0,346
+210,Ratskeller der Stadt Leipzig,8.6,112
+211,Schiller Cafe,7.0,101
+212,MissMarple‘s – Steaks ‘n Bar,-1,36
+213,Bohemian Kids Cafe,8.7,263
+214,L'Osteria,8.4,285
+215,ZR Zchaca Restaurant,8.2,277
+216,Kantine Leipzig,-1,129
+217,Thüringer Hof,7.4,244
+218,Il Corso,6.9,228
+219,Max Enk,7.1,277
+220,La Piazza Gastronomie GmbH,-1,191
+221,Sushi & Nem,6.4,281
+222,Cafe Kandler,7.0,357
+223,Hoshi Leipzig,-1,258
+224,HANS IM GLÜCK - LEIPZIG Augustusplatz,7.4,426
+225,Cafe Madrid,7.8,457
+226,Pizzeria Del Cavaliere,-1,294
+227,Bins Chinarestaurant,-1,296
+228,Kimi,-1,303
+229,Die erste Leipziger Brotschule mit und von Backhaus Wentzlaff,7.3,443
+230,Soupbar Summarum,7.0,445
+231,Puro 5,6.6,411
+232,Imbiss M. Omran,-1,349
+233,Central,6.7,447
+234,Bull & Bonito,-1,365
+235,Sardinia,7.1,503
+236,Restaurant Amor,6.8,476
+237,Stadtpfeiffer,-1,390
+238,DINEA Café & Restaurant,-1,399
+239,Sakura Sushi-Kunst,-1,410
+240,Big Burgester,-1,416
+241,San Remo Pizzeria & Baguetteria,-1,424
+242,TUK TUK Thailändisches Restaurant,5.8,472
+243,Ouai,-1,459
+244,La Grotta,6.9,273
+245,Diego Restaurant & Bar,6.2,205
+246,Bacco 36,7.3,442
+247,Taverna Hellas,-1,463
+248,Valentino,7.5,30
+249,Curry & Co,7.3,37
+250,Dean & David,7.1,35
+251,Enchilada,6.1,17
+252,Frittz,-1,62
+253,Mondschein,7.5,199
+254,McDonald's,6.8,171
+255,Peter Pane,7.1,204
+256,Sushi to go,-1,112
+257,Haiky,6.7,175
+258,Yasumi,7.3,226
+259,Pho Viet,7.1,221
+260,Wenzel Prager Bierstuben,6.6,198
+261,Restaurant Villers,-1,138
+262,Romanushof,6.8,220
+263,Sushi Circle,6.9,245
+264,Side Döner,-1,169
+265,Barthels Hof,6.6,237
+266,Schnitzel Culture,5.6,188
+267,Long Food,-1,183
+268,Subway,6.4,239
+269,Kellari,6.6,256
+270,Tischlein Deck Dich,-1,192
+271,Barfusz,6.8,276
+272,Micello's,-1,198
+273,Cafe Madrid,7.8,356
+274,Burgermeister der Grill,5.8,227
+275,Rusty‘S,-1,218
+276,Huwa,6.1,258
+277,Endless,-1,226
+278,Umaii Ramenbar,6.7,303
+279,Bagel Brothers,8.0,406
+280,Kartoffelhaus No. 1,5.7,243
+281,Stein Café,6.7,316
+282,Lerchennest,-1,243
+283,Luise,7.8,402
+284,Indian Crown,7.1,356
+285,ALEX Leipzig,7.5,386
+286,Nordsee,6.4,303
+287,Zigarre,5.9,271
+288,Vietnam-Küche,-1,253
+289,Kritton Kouzina,-1,256
+290,An Nam,7.6,410
+291,Sole Mio,-1,257
+292,Piccola Italia,6.8,353
+293,Feuerwassereis Kochen Erleben,-1,264
+294,Fürst,-1,282
+295,Chang,7.7,444
+296,Goldene Kugel,6.2,332
+297,Sakura Kaiten Sushibar,7.2,421
+298,HANS IM GLÜCK - LEIPZIG Augustusplatz,7.4,65
+299,Bohemian Kids Cafe,8.7,211
+300,Sardinia,7.1,171
+301,Stadtpfeiffer,-1,112
+302,Max Enk,7.1,212
+303,Spagos Restaurant & Lounge,-1,174
+304,San Remo Pizzeria & Baguetteria,-1,176
+305,Imperii,8.4,351
+306,Central,6.7,255
+307,Planerts,7.4,308
+308,Felix Kantine,-1,187
+309,Bins Chinarestaurant,-1,194
+310,Kimi,-1,196
+311,ALEX Leipzig,7.5,325
+312,Andria Ristorante,7.1,327
+313,Indian Palace,6.3,281
+314,Indian Crown,7.1,350
+315,DINEA Café & Restaurant,-1,242
+316,India Gate,5.7,258
+317,Bagel Brothers,8.0,435
+318,Trattoria Amici,7.5,408
+319,Mumbai,5.8,277
+320,Schiller Cafe,7.0,373
+321,Rostbratwurstgrill.de,-1,276
+322,Vietnam Bistro,-1,294
+323,Indian Curry House,-1,296
+324,Stein Café,6.7,398
+325,Thüringer Hof,7.4,464
+326,Sushi & Nem,6.4,378
+327,Toskana Leipzig,-1,323
+328,Cafe Kandler,7.0,461
+329,Sushi Circle,6.9,457
+330,Puro 5,6.6,440
+331,Pho Viet,7.1,490
+332,Nordsee,6.4,433
+333,Peter Pane,7.1,509
+334,Barfusz,6.8,488
+335,Niiko Sushi x Vegan,-1,406
+336,Barthels Hof,6.6,512
+337,Burger King,5.0,418
+338,Vietnam-Küche,-1,472
+339,Feuerwassereis Kochen Erleben,-1,480
+340,Pizzeria Del Cavaliere,-1,481
+341,Bellinis,5.2,472
+342,Bäckerei Schäfers,-1,1649
+343,Studio 3,-1,26
+344,Hot Pizza,-1,328
+345,Peperoni,-1,418
+346,H & V Asia Imbiss Döner,-1,420
+347,Anatolien,-1,459
+348,ShowKantine,-1,459
+349,Insel20,-1,484
+350,Globus Döner,7.9,7
+351,Espresso Zack Zack,8.8,150
+352,Bistro de Libanon,6.9,173
+353,Quan Xua Restaurant,-1,177
+354,Dönizza,-1,197
+355,Reudnitzer Terrassen,-1,378
+356,Café Bubu,-1,451
+357,Kumpir Döner,-1,474
+358,Kenko Burger,-1,479
+359,Star Pizza Service,-1,498
+360,Parkrestaurant am Völkerschlachtdenkmal,-1,38
+361,Pello,-1,63
+362,Divino,7.4,44
+363,Meetfreude,7.2,57
+364,Kollektiv,6.6,32
+365,Noels Ballroom,8.4,154
+366,Sen Asia Food,-1,51
+367,Mother India,-1,67
+368,Café feinOST,-1,68
+369,Alexanders,-1,84
+370,Mr. Thong Sushi & more,-1,121
+371,Stückwerk Pizzakultur,-1,126
+372,La Strada,6.0,193
+373,L'arte della cucina italiana,-1,195
+374,Shams Bistro & Lieferservice,7.5,336
+375,Bistro El-Amir,7.5,342
+376,Lothar,-1,216
+377,Cafe Maitre,8.1,133
+378,L'angolo d'Italia,-1,223
+379,Asia Imbiss,-1,229
+380,Olive Tree Döner & Pizza Leipzig,7.8,419
+381,Fela,7.5,399
+382,Shady,7.5,449
+383,Shahia,7.6,454
+384,Kneipencafe Orange,7.0,427
+385,Orpheus,-1,354
+386,Yoko Sushi,-1,355
+387,Stella Ristorante,-1,360
+388,Acapulco,5.8,394
+389,Safran,5.7,393
+390,Sona Leipzig,-1,391
+391,Café NiMo,-1,438
+392,Habibi Bistro Döner,-1,450
+393,Goa - Indisches Restaurant,-1,457
+394,Sindbad,-1,541
+395,Shiki Sushi Bar Two,7.8,84
+396,Uptown Coffee Bar,7.6,93
+397,Subway,6.5,105
+398,VITA B Gesund & Lecker,5.9,109
+399,Amazigh Feinkost,-1,99
+400,Restaurant Amor,6.8,225
+401,Soupbar Summarum,7.0,260
+402,Zhang,7.8,311
+403,TUK TUK Thailändisches Restaurant,5.8,243
+404,Sakura Sushi-Kunst,-1,239
+405,Ouai,-1,249
+406,Big Burgester,-1,256
+407,Burger King,5.3,254
+408,Vietnam Küche,-1,330
+409,Domino's Pizza Leipzig Süd,-1,421
+410,Dios grill,-1,428
+411,Goa - Indisches Restaurant,-1,487
+412,Chito Gvrito,-1,488
+413,Willsons,7.5,90
+414,Curry Süd,6.1,17
+415,DINA Falafel and more,-1,74
+416,Döner King,5.9,196
+417,Goldfisch,-1,193
+418,A Tacolypse,7.9,368
+419,Bistro Shahia II,-1,223
+420,MC Scheich II,-1,225
+421,Vegan Express,-1,225
+422,Ristorante Pizzeria Natalina,7.8,435
+423,Krummbirne,-1,302
+424,Le Cygne,-1,310
+425,Restaurant Mona Lisa,-1,332
+426,Pizza Revolution Leipzig,-1,334
+427,Paps,-1,351
+428,Bistro Grill Süd Noori,-1,368
+429,Betten Költzsch,-1,373
+430,Lamies Orientalische Spezialitäten,-1,438
+431,Brotlos,-1,158
+432,Ginseng,-1,221
+433,Hacienda Mexicana,-1,366
+434,Uno Pizza Leipzig Gohlis,-1,374
+435,Schwung und Schwebe,-1,443
+436,Portofino,-1,487
+437,Ikram ocakbasi,-1,9
+438,Mr. Wok Asia Bistro,-1,59
+439,Furat Bistro,-1,95
+440,Bistro Haci Baba,-1,96
+441,Antalya Kebabhaus,-1,128
+442,Bab Al Qalaa,-1,147
+443,KuApo - Die Kulturapotheke,-1,199
+444,Pizzeria Tito,-1,241
+445,Sesam Grill Leipzig,-1,258
+446,Öz Mevlana,-1,352
+447,Peking Palast,-1,81
+448,Pizzeria Gasse,-1,215
+449,KuApo - Die Kulturapotheke,-1,375
+450,Bab Al Qalaa,-1,427
+451,Kebap Pide Haus,-1,83
+452,Hallo Pizza,-1,1053
+453,Trattoria und Pizzeria Aurelia,7.2,86
+454,Restaurant Palmensaal,-1,133
+455,Bambus Frisch,-1,223
+456,Hacienda Las Casas im Zoo Leipzig,6.5,303
+457,Mondschein,7.5,407
+458,Piccola Italia,6.8,387
+459,Café Yellow Brasil,-1,299
+460,Restaurant Brühl,-1,374
+461,Kellari,6.6,471
+462,Restaurant Villers,-1,454
+463,Kritton Kouzina,-1,488
+464,Restaurant Ofenrohr,7.3,394
+465,Bambus Frisch,-1,338
+466,Restaurant Palmensaal,-1,392
+467,Hacienda Las Casas im Zoo Leipzig,6.5,530
+468,Bistro Antep,-1,13
+469,Mytropolis,8.4,331
+470,Pamir Bistro,-1,179
+471,Jeepney Café,-1,194
+472,Call a Pizza,-1,212
+473,Uno Pizza Leipzig Gohlis,-1,305
+474,Konoba Laterna,-1,319
+475,Ristorante Vitelli,-1,340
+476,Hachimi,-1,359
+477,Frieda Restaurant,-1,426
+478,Hart & Herzlich Pâtisserie unplugged,-1,444
+479,Imbiss Damaskus,-1,455
+480,Salumi,-1,481
+481,Salumeria Italiana,-1,2145
+482,City Grill,-1,40
+483,Eiscafé im Rosenhof,-1,246
+484,Restaurant Aufgehende Sonne,-1,311
+485,El Torro,-1,340
+486,Will - Grill,-1,342
+487,Stottmeister,-1,375
+488,Casablanca,-1,386
+489,Casablanca Hotel Restaurant Bowlingbahn,-1,392
+490,Meteora Grill Gyros+Pita,-1,394
+491,Peking Palast,-1,302
+492,Pizzeria Gasse,-1,446
+493,Gaststätte Volksgarten,-1,446
+494,Bozova Kebab Haus,-1,468
+495,Chulo,7.4,138
+496,Bistro Ischtar,-1,209
+497,Bistro Petra,-1,325
+498,Kleine Leckerei Cafe & Bistro,-1,400
+499,Drei Kastanien,-1,406
+500,Fratelli Pastabar,-1,465
+501,Mai Tai,7.6,120
+502,Jimmy Orpheus Cafe & Bar,8.3,158
+503,Gaststätte Bauhütte,-1,86
+504,Fratelli Pastabar,-1,169
+505,Dreßler Cornelia und Wein & Schokolade,-1,260
+506,Bistro Petra,-1,310
+507,Kleine Leckerei Cafe & Bistro,-1,331
+508,Bistro Ischtar,-1,424
+509,Prellbock das Restaurant,6.0,502
+510,Croissanterie Leipzig,-1,507
+511,Bistro Alanya Eiscafe,-1,21
+512,Jedermann,-1,80
+513,Pizza Lab,-1,339
+514,Restaurant Little Saigon,-1,452
+515,Olea,8.1,323
+516,Gambrinus Gaststätte mit Biergarten,-1,326
+517,SCHNIZZ Leipzig-West,5.7,363
+518,Kleopatra,-1,448
+519,Pan,-1,482
+520,Zum Wursterben,-1,492
+521,B10,8.0,278
+522,Kapital Cafe der Galerie,7.7,331
+523,Viet Village,7.4,335
+524,Koy,-1,229
+525,Violino,-1,325
+526,Mama Robert,-1,362
+527,Café Alibi,-1,392
+528,Chito Gvrito,-1,419
+529,Localino - Italienisches Restaurant,-1,464
+530,Volle Rolle,7.9,17
+531,Chumumi,7.1,74
+532,Quan Xanh Vietnamese Vegan Food,-1,34
+533,Meins,7.5,182
+534,Suppentempel,-1,79
+535,Bistro Sindbad,-1,94
+536,Beit Giddi,-1,104
+537,Café Kater,8.2,252
+538,Dipasquale,8.3,272
+539,Café Oink,-1,145
+540,Casablanca,7.4,269
+541,AKKO Hummus Bar,7.1,251
+542,Don Kichot,7.2,266
+543,Beard Brothers feinen Hot Dog Company,7.8,305
+544,Domino's Pizza Leipzig Plagwitz,-1,165
+545,Patio del Sol,-1,172
+546,El Arabi,6.4,226
+547,Le Petit Franz,7.9,352
+548,Croissanterie Leipzig,7.0,310
+549,Veganese Quán Chay,-1,264
+550,Fam Tran Phat,6.2,316
+551,Süß + Salzig,7.2,421
+552,Little Italy,-1,294
+553,Peking Haus,-1,298
+554,Café Albert,7.0,439
+555,Call a Pizza,-1,322
+556,Prellbock das Restaurant,6.0,362
+557,Mam Mam Leipzig,-1,334
+558,Chinabrenner Winterquartier,-1,390
+559,Moini - Steinofenpizza,-1,409
+560,Croissanterie Leipzig,-1,414
+561,Old Rebel,-1,457
+562,Beard Brothers feinen Hot Dog Company,7.8,6
+563,Dipasquale,8.3,43
+564,Le Petit Franz,7.9,49
+565,Croissanterie Leipzig,7.0,15
+566,Don Kichot,7.2,92
+567,Call a Pizza,-1,13
+568,Süß + Salzig,7.2,111
+569,Peking Haus,-1,52
+570,Casablanca,7.4,167
+571,Meins,7.5,188
+572,AKKO Hummus Bar,7.1,189
+573,Veganese Quán Chay,-1,122
+574,Café Albert,7.0,215
+575,Chinabrenner Winterquartier,-1,157
+576,Volle Rolle,7.9,304
+577,Café Kater,8.2,326
+578,Little Italy,-1,201
+579,Fam Tran Phat,6.2,243
+580,Moini - Steinofenpizza,-1,203
+581,Chumumi,7.1,344
+582,El Arabi,6.4,302
+583,Domino's Pizza Leipzig Plagwitz,-1,272
+584,Suppentempel,-1,289
+585,Quan Xanh Vietnamese Vegan Food,-1,320
+586,Patio del Sol,-1,338
+587,Mam Mam Leipzig,-1,360
+588,Beit Giddi,-1,360
+589,Bistro Sindbad,-1,361
+590,Café Oink,-1,422
+591,Glas & Bohne,-1,458
+592,SCHNIZZ Leipzig-West,5.7,487
+593,Haus 56,-1,482
+594,Cafe Petisqueira,-1,665
+595,Café Kater,8.2,106
+596,Mam Mam Leipzig,-1,29
+597,Fam Tran Phat,6.2,113
+598,Casablanca,7.4,187
+599,AKKO Hummus Bar,7.1,170
+600,El Arabi,6.4,127
+601,Meins,7.5,215
+602,Little Italy,-1,153
+603,Dipasquale,8.3,319
+604,Don Kichot,7.2,263
+605,Volle Rolle,7.9,336
+606,Domino's Pizza Leipzig Plagwitz,-1,188
+607,Patio del Sol,-1,200
+608,Beard Brothers feinen Hot Dog Company,7.8,356
+609,Le Petit Franz,7.9,397
+610,Veganese Quán Chay,-1,233
+611,Croissanterie Leipzig,7.0,368
+612,Suppentempel,-1,274
+613,Süß + Salzig,7.2,414
+614,Olea,8.1,494
+615,Peking Haus,-1,302
+616,Chumumi,7.1,427
+617,SCHNIZZ Leipzig-West,5.7,357
+618,Call a Pizza,-1,356
+619,Quan Xanh Vietnamese Vegan Food,-1,387
+620,Bistro Sindbad,-1,447
+621,Beit Giddi,-1,457
+622,Café Oink,-1,494
+623,Cafe Petisqueira,-1,653
+624,Pekar,7.9,112
+625,Cafe Petisqueira,-1,30
+626,Olea,8.1,163
+627,Kleopatra,-1,49
+628,Pan,-1,67
+629,Gambrinus Gaststätte mit Biergarten,-1,114
+630,BasaMo Insel,-1,134
+631,Haus 56,-1,258
+632,SCHNIZZ Leipzig-West,5.7,281
+633,Glas & Bohne,-1,357
+634,Zum Wursterben,-1,445
+635,Restaurant Little Saigon,-1,493
+636,Pizza Lab,-1,501
+637,Luise,7.8,7
+638,Sakura Kaiten Sushibar,7.2,26
+639,An Nam,7.6,89
+640,Inside Asia,6.8,74
+641,Chang,7.7,158
+642,Batu,-1,61
+643,Mascarpone,-1,70
+644,Canito,-1,73
+645,Maison Viet,-1,91
+646,Café Tunichtgut,7.8,289
+647,Cafe Madrid,7.8,292
+648,Huwa,6.1,229
+649,L'Osteria,8.4,381
+650,ZR Zchaca Restaurant,8.2,381
+651,Umaii Ramenbar,6.7,284
+652,La Casa,-1,213
+653,Wenzel Prager Bierstuben,6.6,289
+654,Cafe Kandler,7.0,347
+655,Die erste Leipziger Brotschule mit und von Backhaus Wentzlaff,7.3,369
+656,Barfusz,6.8,333
+657,Schnitzel Culture,5.6,260
+658,Kartoffelhaus No. 1,5.7,264
+659,Apels Garten,-1,258
+660,Barthels Hof,6.6,333
+661,Valentino,7.5,417
+662,Lerchennest,-1,270
+663,Curry & Co,7.3,404
+664,Thüringer Hof,7.4,417
+665,Zigarre,5.9,297
+666,Puro 5,6.6,352
+667,Dean & David,7.1,421
+668,Bull & Bonito,-1,306
+669,Kolinar,-1,313
+670,Fürst,-1,317
+671,Il Corso,6.9,421
+672,Nordsee,6.4,391
+673,Ratskeller der Stadt Leipzig,8.6,562
+674,Tokyo Cafe,-1,338
+675,ALEX Leipzig,7.5,499
+676,Domino's Pizza Leipzig Zentrum West (Domino‘s Pizza Leipzig Zentrum West),-1,343
+677,Pizza Paradiso,-1,343
+678,Enchilada,6.1,384
+679,Stein Café,6.7,443
+680,Peter Pane,7.1,486
+681,Sushi Circle,6.9,461
+682,Feuerwassereis Kochen Erleben,-1,355
+683,Pho Viet,7.1,489
+684,Bellinis,5.2,350
+685,Kellari,6.6,458
+686,Sushi & Nem,6.4,449
+687,Café Tunichtgut,7.8,332
+688,Dankbar Kaffee Leipzig,8.0,397
+689,Pizza Paradiso,-1,243
+690,Chang,7.7,415
+691,Tamers Bistro,7.6,428
+692,Tokyo Cafe,-1,276
+693,An Nam,7.6,445
+694,Luise,7.8,476
+695,Kolinar,-1,317
+696,Sakura Kaiten Sushibar,7.2,462
+697,Die erste Leipziger Brotschule mit und von Backhaus Wentzlaff,7.3,472
+698,Mein Leipzig,-1,329
+699,Fam Tran Phat,6.3,430
+700,Apels Garten,-1,393
+701,L`arena Pizzeria,6.1,440
+702,Domino's Pizza Leipzig Zentrum West (Domino‘s Pizza Leipzig Zentrum West),-1,404
+703,Pizzeria Napoli,-1,417
+704,Subway,5.9,449
+705,La Casa,-1,422
+706,Mascarpone,-1,430
+707,Canito,-1,441
+708,Batu,-1,448
+709,Elia Griechisches,-1,453
+710,Aspendos Grill,6.0,604
+711,Stein Café,6.7,10
+712,ALEX Leipzig,7.5,67
+713,Nordsee,6.4,50
+714,Indian Crown,7.1,117
+715,Sushi Circle,6.9,104
+716,Barfusz,6.8,109
+717,Burger King,5.0,34
+718,Cafe Madrid,7.8,177
+719,Barthels Hof,6.6,122
+720,Pho Viet,7.1,160
+721,Central,6.7,140
+722,Vietnam-Küche,-1,79
+723,Peter Pane,7.1,175
+724,Feuerwassereis Kochen Erleben,-1,91
+725,Umaii Ramenbar,6.7,160
+726,Puro 5,6.6,156
+727,Bellinis,5.2,92
+728,Romanushof,6.8,195
+729,Wenzel Prager Bierstuben,6.6,183
+730,Fürst,-1,124
+731,Zigarre,5.9,145
+732,Cafe Kandler,7.0,225
+733,Sardinia,7.1,232
+734,Andria Ristorante,7.1,233
+735,Bagel Brothers,8.0,304
+736,Yasumi,7.3,268
+737,Indian Palace,6.3,215
+738,Imperii,8.4,342
+739,DINEA Café & Restaurant,-1,174
+740,Curry & Co,7.3,291
+741,Kartoffelhaus No. 1,5.7,184
+742,Lerchennest,-1,178
+743,Valentino,7.5,310
+744,McDonald's,6.8,261
+745,Huwa,6.1,216
+746,Planerts,7.4,317
+747,Sushi & Nem,6.4,248
+748,Haiky,6.7,266
+749,Thüringer Hof,7.4,327
+750,Dean & David,7.1,309
+751,Bohemian Kids Cafe,8.7,394
+752,India Gate,5.7,216
+753,Subway,6.4,264
+754,Toskana Leipzig,-1,212
+755,Schnitzel Culture,5.6,221
+756,San Remo Pizzeria & Baguetteria,-1,222
+757,Micello's,-1,224
+758,Max Enk,7.1,331
+759,Indian Curry House,-1,228
+760,Endless,-1,232
+761,Shams Bistro & Lieferservice,7.5,337
+762,Mediengarten in der Mediacity am MDR,-1,321
+763,Ungarisches Spezialitäten Restaurant Váradi Csárda,-1,382
+764,Skaska,-1,409
+765,Yoko Sushi,-1,421
+766,Asia Imbiss,-1,437
+767,Gohliser Hof,-1,368
+768,Imbiss Damaskus,-1,397
+769,Punjabi,-1,445
+770,Hacienda Mexicana,-1,465
+771,Schwung und Schwebe,-1,476
+772,Domino's Pizza Leipzig Ost,-1,166
+773,Cáo Restaurant - Bar - Street Food,-1,168
+774,Domino's Pizza,-1,221
+775,Star Pizza Service,-1,329
+776,Café Bubu,-1,445
+777,Atrium Bistro,-1,765
+778,Café Bubu,-1,67
+779,Kumpir Döner,-1,104
+780,Kenko Burger,-1,110
+781,Espresso Zack Zack,8.8,391
+782,Star Pizza Service,-1,225
+783,Globus Döner,7.9,456
+784,Domino's Pizza,-1,321
+785,Domino's Pizza Leipzig Ost,-1,352
+786,Atrium Bistro,-1,1261
+787,Mørtelwerk,6.6,349
+788,Rambutan - Asiatische Spezialitäten,-1,391
+789,Uno Pizza Leipzig Lindenau,-1,401
+790,Mørtelwerk,6.6,96
+791,Kirow Kantine,-1,157
+792,McDonald's,5.7,415
+793,Asia Imbiss,-1,33
+794,Pizzeria Cortigiano,-1,57
+795,Gaststätte Mariental,-1,329
+796,Subway,6.9,53
+797,GreenSoul,7.6,112
+798,Das Fass - Leipzigs erster Altbierkeller,-1,7
+799,World Of Pizza,-1,95
+800,Bistro Lia,-1,132
+801,Maharani,-1,218
+802,Sushi & Wok Hongkong Restaurant,-1,451
+803,Café im Grassi,-1,215
+804,Trattoria Amici,7.5,353
+805,Addis Café Leipzig,-1,442
+806,Boof Pizza,-1,467
+807,Campus Café Salomon,-1,503
+808,Anatolien,-1,26
+809,Öz Mevlana,-1,189
+810,Sesam Grill Leipzig,-1,284
+811,Pizzeria Tito,-1,312
+812,Antalya Kebabhaus,-1,413
+813,Studio 3,-1,445
+814,Bistro Haci Baba,-1,446
+815,Furat Bistro,-1,447
+816,Mr. Wok Asia Bistro,-1,483
+817,Hot Pizza,-1,531
+818,Mr. Wok Asia Bistro,-1,282
+819,Furat Bistro,-1,287
+820,Pizzeria Tito,-1,292
+821,Bistro Haci Baba,-1,293
+822,Ikram ocakbasi,-1,294
+823,Antalya Kebabhaus,-1,297
+824,Bab Al Qalaa,-1,348
+825,Sesam Grill Leipzig,-1,349
+826,Trago,-1,367
+827,KuApo - Die Kulturapotheke,-1,382
+828,Öz Mevlana,-1,417
+829,Mai Tai,7.6,313
+830,Jimmy Orpheus Cafe & Bar,8.3,375
+831,Croissanterie Leipzig,-1,222
+832,Ouzeri Was Kost Das,-1,244
+833,Prellbock das Restaurant,6.0,275
+834,Gaststätte Bauhütte,-1,347
+835,Freddy Fresh Pizza Leipzig-Plagwitz,-1,381
+836,Dreßler Cornelia und Wein & Schokolade,-1,413
+837,S1 Vinyl & Kaffee,7.3,19
+838,Gaststätte Weinberggärten,-1,322
+839,Bayerischer Bahnhof,8.4,160
+840,Zhang,7.8,171
+841,Vietnam Küche,-1,198
+842,Dios grill,-1,232
+843,Shiki Sushi Bar Two,7.8,396
+844,Uptown Coffee Bar,7.6,399
+845,Da Salvo,6.3,334
+846,Boof Pizza,-1,339
+847,Subway,6.5,439
+848,Addis Café Leipzig,-1,364
+849,VITA B Gesund & Lecker,5.9,432
+850,Amazigh Feinkost,-1,413
+851,Saigon 1,-1,439
+852,Imbiss M. Omran,-1,441
+853,Sakura Sushi-Kunst,-1,465
+854,Fam Tran Phat,-1,468
+855,Pizzeria Del Cavaliere,-1,486
+856,Big Burgester,-1,500
+857,Bistro El-Amir,7.5,53
+858,Olive Tree Döner & Pizza Leipzig,7.8,129
+859,Kneipencafe Orange,7.0,138
+860,L'angolo d'Italia,-1,71
+861,La Strada,6.0,100
+862,Stella Ristorante,-1,83
+863,Acapulco,5.8,106
+864,Safran,5.7,105
+865,L'arte della cucina italiana,-1,99
+866,Sona Leipzig,-1,105
+867,Shady,7.5,222
+868,Meetfreude,7.2,239
+869,Divino,7.4,250
+870,Goa - Indisches Restaurant,-1,167
+871,Kollektiv,6.6,282
+872,Café NiMo,-1,226
+873,Café feinOST,-1,233
+874,Mother India,-1,235
+875,Domino's Pizza Leipzig Süd,-1,236
+876,Sen Asia Food,-1,243
+877,Cafe Maitre,8.1,161
+878,Noels Ballroom,8.4,447
+879,Lothar,-1,341
+880,Alexanders,-1,374
+881,Habibi Bistro Döner,-1,390
+882,Yoko Sushi,-1,406
+883,Asia Imbiss,-1,411
+884,Mr. Thong Sushi & more,-1,414
+885,Stückwerk Pizzakultur,-1,418
+886,Burger King,5.3,412
+887,Fam Tran Phat,-1,441
+888,Saigon 1,-1,462
+889,Orpheus,-1,510
+890,Shams Bistro & Lieferservice,7.5,34
+891,Noels Ballroom,8.4,290
+892,Asia Imbiss,-1,172
+893,Ungarisches Spezialitäten Restaurant Váradi Csárda,-1,256
+894,Meetfreude,7.2,391
+895,Divino,7.4,404
+896,Yoko Sushi,-1,280
+897,Skaska,-1,283
+898,Fela,7.5,436
+899,Shahia,7.6,469
+900,Kollektiv,6.6,403
+901,Mr. Thong Sushi & more,-1,343
+902,Stückwerk Pizzakultur,-1,354
+903,Alexanders,-1,362
+904,Sen Asia Food,-1,393
+905,Café feinOST,-1,430
+906,Mother India,-1,430
+907,Habibi Bistro Döner,-1,435
+908,Mediengarten in der Mediacity am MDR,-1,466
+909,Sindbad,-1,525
+910,Cafe Maitre,8.1,462
+911,Café Yellow,-1,135
+912,Shahia,7.6,325
+913,Fela,7.5,335
+914,Subway,7.3,408
+915,Antique Restaurant Syrian Cuisine,-1,320
+916,Sindbad,-1,333
+917,Cà Pháo,-1,341
+918,Uno Pizza Leipzig Südvorstadt,-1,356
+919,Orpheus,-1,362
+920,Café Sòley,-1,407
+921,Stückwerk Pizzakultur,-1,491
+922,Döner King,5.9,86
+923,Willsons,7.5,230
+924,Curry Süd,6.1,163
+925,DINA Falafel and more,-1,161
+926,Restaurant Mona Lisa,-1,238
+927,Subway,7.3,394
+928,Goldfisch,-1,343
+929,Vegan Express,-1,359
+930,Café Sòley,-1,363
+931,Bistro Shahia II,-1,371
+932,MC Scheich II,-1,374
+933,Krummbirne,-1,451
+934,Le Cygne,-1,460
+935,Pizza Revolution Leipzig,-1,463
+936,Paps,-1,479
+937,Uno Pizza Leipzig Gohlis,-1,216
+938,Brotlos,-1,296
+939,Ginseng,-1,347
+940,Hacienda Mexicana,-1,404
+941,Jeepney Café,-1,411
+942,Bistro Antep,-1,450
+943,Schwung und Schwebe,-1,490
+944,Upper West Leipzig,6.2,45
+945,Chinabrenner,7.6,167
+946,Café Albert,7.0,273
+947,Le Petit Franz,7.9,447
+948,Moini - Steinofenpizza,-1,276
+949,Beard Brothers feinen Hot Dog Company,7.8,475
+950,Bistro am Kanal,-1,306
+951,Chinabrenner Winterquartier,-1,325
+952,Süß + Salzig,7.2,475
+953,Croissanterie Leipzig,7.0,464
+954,Cafeteria M9,-1,455
+955,Call a Pizza,-1,481
+956,Ratskeller der Stadt Leipzig,8.6,101
+957,Schiller Cafe,7.0,86
+958,MissMarple‘s – Steaks ‘n Bar,-1,74
+959,Thüringer Hof,7.4,188
+960,Bohemian Kids Cafe,8.7,243
+961,ZR Zchaca Restaurant,8.2,236
+962,L'Osteria,8.4,246
+963,Il Corso,6.9,175
+964,Kantine Leipzig,-1,101
+965,La Piazza Gastronomie GmbH,-1,145
+966,Max Enk,7.1,244
+967,Sushi & Nem,6.4,225
+968,Cafe Kandler,7.0,300
+969,Hoshi Leipzig,-1,209
+970,Cafe Madrid,7.8,400
+971,Bins Chinarestaurant,-1,263
+972,HANS IM GLÜCK - LEIPZIG Augustusplatz,7.4,408
+973,Kimi,-1,268
+974,Puro 5,6.6,354
+975,Die erste Leipziger Brotschule mit und von Backhaus Wentzlaff,7.3,418
+976,ALEX Leipzig,7.5,445
+977,Bull & Bonito,-1,309
+978,Central,6.7,399
+979,Sardinia,7.1,463
+980,Pizzeria Del Cavaliere,-1,337
+981,DINEA Café & Restaurant,-1,351
+982,Umaii Ramenbar,6.7,451
+983,Barfusz,6.8,476
+984,Stadtpfeiffer,-1,377
+985,San Remo Pizzeria & Baguetteria,-1,382
+986,Imbiss M. Omran,-1,393
+987,Nordsee,6.4,465
+988,La Grotta,6.9,225
+989,Restaurant Amor,6.8,524
+990,Zigarre,5.9,481
+991,Sakura Sushi-Kunst,-1,462
+992,Big Burgester,-1,466
+993,Huwa,6.1,513
+994,Fürst,-1,470
+995,Domino's Pizza Leipzig Zentrum West (Domino‘s Pizza Leipzig Zentrum West),-1,483
+996,Bellinis,5.2,472
+997,Feuerwassereis Kochen Erleben,-1,493
+998,Bäckerei Schäfers,-1,1322
+999,Cafe Kiew,-1,457
+1000,Gaststätte Mariental,-1,248
+1001,VICTOR’S Restaurant,-1,74
+1002,Campus Suite,-1,82
+1003,Falafel Ali,-1,91
+1004,"Pizza Hut Leipzig, HBF",5.7,133
+1005,Masala - Indian Food,6.0,149
+1006,Asiahung,6.3,171
+1007,Burger King,5.3,139
+1008,Ciao Bella,-1,148
+1009,Imperii,8.4,315
+1010,Takumi Leipzig,-1,161
+1011,frischBack,-1,180
+1012,Frittenwerk,-1,180
+1013,Frittz,-1,196
+1014,Bagel Brothers,8.0,358
+1015,Planerts,7.4,352
+1016,McDonald's,5.5,235
+1017,ROCKET’S Burger,-1,264
+1018,Peperoni,-1,272
+1019,KFC,5.2,260
+1020,H & V Asia Imbiss Döner,-1,276
+1021,Andria Ristorante,7.1,421
+1022,Vietnam Bistro,-1,342
+1023,Goldene Kugel,6.2,406
+1024,Niiko Sushi x Vegan,-1,379
+1025,Indian Palace,6.3,455
+1026,Indian Crown,7.1,534
+1027,Mumbai,5.8,421
+1028,Gourmet-Restaurant FALCO,7.1,558
+1029,Indian Curry House,-1,435
+1030,Toskana Leipzig,-1,443
+1031,India Gate,5.7,467
+1032,Sole Mio,-1,483
